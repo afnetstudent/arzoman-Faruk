@@ -6,6 +6,7 @@ body{
 .header{
     padding: 30px;
     background-color: gray;
+    width: 120%;
 }
 .nav-bar{
     float: right;
@@ -101,20 +102,21 @@ li a {
      }
     .foter{
         background-image: url("Group_33094_1.png");
-        padding-bottom: 20px;
-        margin-top: 800px;
+        padding-bottom: 40px;
+        margin-top: 700px;
         width: 70%;
-        height: 50%;
+        height: 80%;
         position: relative;
         left: 20%;
-        border-radius: 30px;
+        border-radius: 20px;
     }
-     .text-block h1{
+     .foter h1{
         color: white;
+        position: relative;
+        left: 20%;
+        padding: 20px;
         }
-        #last-btn{
-            position: relative;
-            left: 35%;
-
+        .foter .btn{
+            float: right;
+           
         }
-
