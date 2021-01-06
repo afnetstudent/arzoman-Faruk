@@ -99,17 +99,22 @@ li a {
          text-align: center;
          
      }
-     .foter{
-         position: relative;
-     }
-     .ttext-block{
-        position: absolute;
-        bottom: 20px;
-        right: 20px;
-        padding-left: 20px;
-        padding-right: 20px;
-     }
-    
-     
+    .foter{
+        background-image: url("Group_33094_1.png");
+        padding-bottom: 20px;
+        margin-top: 800px;
+        width: 70%;
+        height: 50%;
+        position: relative;
+        left: 20%;
+        border-radius: 30px;
+    }
+     .text-block h1{
+        color: white;
+        }
+        #last-btn{
+            position: relative;
+            left: 35%;
 
+        }
 
